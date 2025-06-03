@@ -1,6 +1,9 @@
 # wangEditor-farsi
 ویرایشگر متن wangEditor با عناوین فارسی
 
+![image](https://github.com/user-attachments/assets/617efcc0-eeec-44cc-b56c-853a12b6949e)
+
+
 ```
 <div id="toolbar-container"></div>
 <div id="editor-container" style="border: 1px solid #ccc; min-height: 200px;"></div>
