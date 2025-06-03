@@ -10,6 +10,8 @@
 
 
 ```
+
+
 <div id="toolbar-container"></div>
 <div id="editor-container" style="border: 1px solid #ccc; min-height: 200px;"></div>
 <link href="https://unpkg.com/@wangeditor/editor@latest/dist/css/style.css" rel="stylesheet">
@@ -95,7 +97,10 @@ E.i18nAddResources('fa', {
         link : "پیوند تصویر (اختیاری)",
     },
     uploadImgModule: {
-        uploadImage: "بارگذاری تصویر"
+        uploadImage: "بارگذاری تصویر",
+        edit: "ویرایش تصویر",
+        viewLink: "مشاهده پیوند",
+        delete: "حذف تصویر",
     },
     videoModule:{
         insertVideo: "افزودن ویدیو",
@@ -105,6 +110,9 @@ E.i18nAddResources('fa', {
         videoSrcPlaceholder: "آدرس ویدیو را وارد کنید",
         videoPosterPlaceholder: "آدرس پوستر ویدیو را وارد کنید (اختیاری)",
         uploadVideo: "بارگذاری ویدیو",
+        editSize: "ویرایش اندازه",
+        width: "عرض",
+        height: "ارتفاع",
     },
     tableModule: {
         insertTable: "افزودن جدول",
