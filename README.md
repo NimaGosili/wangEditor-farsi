@@ -1,6 +1,7 @@
 # wangEditor-farsi
 
 [صفحه اصلی ویرایشگر](https://www.wangeditor.com/en/)
+[تنظیمات بیشتر (آپلود تصاویر و... )](https://www.wangeditor.com/en/v5/)
 
 ویرایشگر متن wangEditor با عناوین فارسی
 
